@@ -1,3 +1,3 @@
-# Welcome to Pro CXX 
+# Welcome to Pro CXX
 
-This repo contains various, well-documented tutorils and articles on c++.
+This repository contains source code for the C++ standard library tutorial.
